@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DirectDebitPageSortCodeInputFieldOne</name>
+   <tag></tag>
+   <elementGuidId>bdb981c2-99b7-45d8-9f34-c9242078c90d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>#SortCodeSegmentOne</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>#SortCodeSegmentOne</value>
+   </webElementProperties>
+</WebElementEntity>

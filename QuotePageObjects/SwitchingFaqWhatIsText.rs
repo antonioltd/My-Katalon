@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SwitchingFaqWhatIsText</name>
+   <tag></tag>
+   <elementGuidId>25d02a17-43bf-4dd1-8671-8f6d54b854e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*/div[8]/div/div/div/div/div[4]/div[1]/a/h2/ancestor::div[@class='accordion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*/div[8]/div/div/div/div/div[4]/div[1]/a/h2/ancestor::div[@class='accordion']</value>
+   </webElementProperties>
+</WebElementEntity>

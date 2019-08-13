@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DirectDebitPaymentDateErrorText</name>
+   <tag></tag>
+   <elementGuidId>828f1d09-6ae9-4898-9b23-32eb6101aaf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>DirectDebitPaymentDateErrorText</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>DirectDebitPaymentDateErrorText</value>
+   </webElementProperties>
+</WebElementEntity>

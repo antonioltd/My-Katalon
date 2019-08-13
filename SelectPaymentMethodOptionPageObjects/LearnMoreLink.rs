@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LearnMoreLink</name>
+   <tag></tag>
+   <elementGuidId>e05b29cd-09fa-49bf-a121-4ce5501e272e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/section/div/div[2]/div/form/fieldset/fieldset/div[1]/label/div/div/div[2]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/section/div/div[2]/div/form/fieldset/fieldset/div[1]/label/div/div/div[2]/span/a</value>
+   </webElementProperties>
+</WebElementEntity>
